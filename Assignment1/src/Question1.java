@@ -9,8 +9,7 @@ public class Question1 {
 		System.out.println("This is fun");
 		System.out.println("Yay! Printing.");
 		System.out.println("I'd much rather you 'not'.");
-		System.out.println("I \"said\" do not touch this."); /* to print anything under double quotes we use
-																/"statement/"  */
+		System.out.println("I \"said\" do not touch this."); /* to print anything under double quotes we use  /"statement/"  */
 
 	}
 
